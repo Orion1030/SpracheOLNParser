@@ -1,0 +1,19 @@
+First name: Joseph
+Last name: Test
+Middle name: Thomas
+Race: White
+Sex: Male
+Date of Birth: 19521005
+Height: 5-10
+Weight: 200
+Hair color: Brown
+Eye color: Green
+OLN: 11244104
+CLASS: Regular Operator
+EXPIRATION DATE: 01092028
+SOCIAL SECURITY NUMBER: 444-44-4444
+Physical Street address: 9377 MANSFIELD RD
+City: SHREVEPORT
+State: LA
+Zip Code: 71118
+County: CADDO

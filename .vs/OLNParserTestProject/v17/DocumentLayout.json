@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Orion\\Projects\\Orion\\OLNParserTestProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E20743E-3355-60E3-489C-6A40AA609607}|OLNParserTestProject.csproj|e:\\orion\\projects\\orion\\olnparsertestproject\\parsers\\olnparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E20743E-3355-60E3-489C-6A40AA609607}|OLNParserTestProject.csproj|solutionrelative:parsers\\olnparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E20743E-3355-60E3-489C-6A40AA609607}|OLNParserTestProject.csproj|e:\\orion\\projects\\orion\\olnparsertestproject\\models\\licensedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E20743E-3355-60E3-489C-6A40AA609607}|OLNParserTestProject.csproj|solutionrelative:models\\licensedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E20743E-3355-60E3-489C-6A40AA609607}|OLNParserTestProject.csproj|e:\\orion\\projects\\orion\\olnparsertestproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E20743E-3355-60E3-489C-6A40AA609607}|OLNParserTestProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LicenseData.cs",
+              "DocumentMoniker": "E:\\Orion\\Projects\\Orion\\OLNParserTestProject\\Models\\LicenseData.cs",
+              "RelativeDocumentMoniker": "Models\\LicenseData.cs",
+              "ToolTip": "E:\\Orion\\Projects\\Orion\\OLNParserTestProject\\Models\\LicenseData.cs",
+              "RelativeToolTip": "Models\\LicenseData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T15:28:16.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Orion\\Projects\\Orion\\OLNParserTestProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Orion\\Projects\\Orion\\OLNParserTestProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:49:24.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OLNParser.cs",
+              "DocumentMoniker": "E:\\Orion\\Projects\\Orion\\OLNParserTestProject\\Parsers\\OLNParser.cs",
+              "RelativeDocumentMoniker": "Parsers\\OLNParser.cs",
+              "ToolTip": "E:\\Orion\\Projects\\Orion\\OLNParserTestProject\\Parsers\\OLNParser.cs",
+              "RelativeToolTip": "Parsers\\OLNParser.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAwIUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:34:03.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
